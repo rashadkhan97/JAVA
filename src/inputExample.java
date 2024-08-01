@@ -1,5 +1,6 @@
 //Question - take input a and b. Do the summation of this .
 
+
 import java.util.Scanner;
 
 public class inputExample {

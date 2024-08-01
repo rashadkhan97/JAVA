@@ -29,4 +29,3 @@ public class LoopsExample {
         while (y<10);
     }
 }
-

@@ -12,6 +12,5 @@ public class variableExamples {
         //simple calculation
         int ans = (a*b)/(a-b);
         System.out.println(ans);
-
     }
 }

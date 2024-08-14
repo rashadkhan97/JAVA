@@ -11,7 +11,7 @@ package Exercises;
 
 import java.util.Scanner;
 
-public class NestedLoopExercise_01 {
+public class NestedLoop_HollowRectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the 1st no: ");

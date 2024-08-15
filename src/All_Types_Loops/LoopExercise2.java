@@ -1,6 +1,6 @@
 //Q - Print the table of number input by user
 
-package Exercises;
+package All_Types_Loops;
 import java.util.Scanner;
 
 public class LoopExercise2 {

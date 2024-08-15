@@ -8,11 +8,11 @@ User Input: 3
   *
 * */
 
-package Note_Practice;
+package All_Types_Loops;
 
 import java.util.Scanner;
 
-public class Lec5_Sol5 {
+public class NestedLoop_DiamondPattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("User Input: ");

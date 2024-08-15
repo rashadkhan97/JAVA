@@ -5,7 +5,7 @@ User Input: 4
 1 0 1
 0 1 0 1
 */
-package Exercises;
+package All_Types_Loops;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Q - Print the sum of First N Natural Numbers
 
-package All_Types_Loops;
+package allLoops;
 import java.util.Scanner;
 
 public class LoopExercise {

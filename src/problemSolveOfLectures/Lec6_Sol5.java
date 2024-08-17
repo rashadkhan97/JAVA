@@ -1,4 +1,4 @@
-package Note_Practice;
+package problemSolveOfLectures;
 
 import java.util.Scanner;
 

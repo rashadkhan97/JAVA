@@ -7,7 +7,7 @@
 
  */
 
-package All_Types_Loops;
+package allLoops;
 
 import java.util.Scanner;
 

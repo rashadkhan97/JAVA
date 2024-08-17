@@ -6,7 +6,7 @@ User Input: 4
 1234
 */
 
-package All_Types_Loops;
+package allLoops;
 
 import java.util.Scanner;
 

@@ -1,17 +1,17 @@
 /*
 User Input: 4
    1
-  2 1 2
- 3 2 1 2 3
-4 3 2 1 2 3 4
+  2 2
+ 3 3 3
+4 4 4 4
 
 * */
 
-package Note_Practice;
+package problemSolveOfLectures;
 
 import java.util.Scanner;
 
-public class Lec5_Sol4 {
+public class Lec5_Sol3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("User Input: ");
@@ -19,18 +19,13 @@ public class Lec5_Sol4 {
 
         for (int i =1; i<=n; i++){
             //for space print
-            for (int j=1; j<=n-i; j++){
+            for (int j=1; j<=n-i;j++){
                 System.out.print(" ");
             }
 
-            //for 1st part
-            for (int j=i; j>=1; j--){
-                System.out.print(j+ " ");
-            }
-
-            //for 2nd part
-            for (int j=2; j<=i; j++){
-                System.out.print(j+ " ");
+            //for number print
+            for (int j=1; j<=i; j++){
+                System.out.print(i+ " ");
             }
             System.out.println();
         }

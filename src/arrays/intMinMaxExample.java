@@ -16,8 +16,8 @@ public class intMinMaxExample {
             number[i]=sc.nextInt();
         }
 
-        int max = Integer.MIN_VALUE; //Integer.MIN_VALUE - a constant that holds the minimum value
-        int min = Integer.MAX_VALUE; //Integer.MAX_VALUE - a constant that holds the maximum value
+        int min = Integer.MIN_VALUE; //Integer.MIN_VALUE - a constant that holds the minimum value
+        int max = Integer.MAX_VALUE; //Integer.MAX_VALUE - a constant that holds the maximum value
 
         //output
         for (int i=0; i<number.length; i++) {

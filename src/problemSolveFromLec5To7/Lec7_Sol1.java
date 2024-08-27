@@ -1,6 +1,6 @@
 //Qsn - Make a function to check if a number is prime or not.
 
-package problemSolveOfLectures;
+package problemSolveFromLec5To7;
 
 import java.util.Scanner;
 

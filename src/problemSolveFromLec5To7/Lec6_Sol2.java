@@ -1,4 +1,4 @@
-package problemSolveOfLectures;
+package problemSolveFromLec5To7;
 
 import java.util.Scanner;
 

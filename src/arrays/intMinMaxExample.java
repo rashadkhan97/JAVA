@@ -19,6 +19,10 @@ public class intMinMaxExample {
         int min = Integer.MIN_VALUE; //Integer.MIN_VALUE - a constant that holds the minimum value
         int max = Integer.MAX_VALUE; //Integer.MAX_VALUE - a constant that holds the maximum value
 
+        //Else we can right this way also
+        // int min = number[0];
+        // int max = number[0];
+
         //output
         for (int i=0; i<number.length; i++) {
             if (number[i] > max) {

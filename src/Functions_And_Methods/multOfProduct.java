@@ -1,6 +1,6 @@
 //Qsn - Make a function to multiply 2 numbers and return the product.
 
-package functionsAndMethods;
+package Functions_And_Methods;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Qsn - Print Name Using Function
 
-package functionsAndMethods;
+package Functions_And_Methods;
 
 import java.util.Scanner;
 

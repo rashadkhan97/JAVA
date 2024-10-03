@@ -1,6 +1,6 @@
 //Qsn - Find the factorial of a number
 
-package functionsAndMethods;
+package Functions_And_Methods;
 
 import java.util.Scanner;
 

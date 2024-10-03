@@ -1,6 +1,6 @@
 //Qsn - Make a function to add 2 numbers and return the sum.
 
-package functionsAndMethods;
+package Functions_And_Methods;
 
 import java.util.Scanner;
 

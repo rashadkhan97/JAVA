@@ -1,4 +1,4 @@
-//Question - take input a and b. Do the summation of this .
+package javaBasic;//Question - take input a and b. Do the summation of this .
 
 
 import java.util.Scanner;

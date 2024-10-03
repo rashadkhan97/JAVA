@@ -4,7 +4,7 @@ in the original string with letter ‘i’.
 Example : Original = "eabcdef" ; result = “iabcdif”
           Original = “xyz” ; result = “xyz”  */
 
-package string;
+package stringAndStringBuilder.stringRelatedHW;
 import java.util.Scanner;
 
 public class homeworkSolution02 {
@@ -21,6 +21,6 @@ public class homeworkSolution02 {
                result += input.charAt(i);
            }
        }
-        System.out.println(result);
+        System.out.println("Result: "+result);
     }
 }

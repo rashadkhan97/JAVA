@@ -1,4 +1,4 @@
-package string;
+package stringAndStringBuilder.string;
 
 public class substring {
     public static void main(String[] args) {

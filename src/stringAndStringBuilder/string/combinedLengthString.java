@@ -1,6 +1,6 @@
 //Qsn - Take an array of Strings input from the user & find the cumulative (combined) length of all those strings.
 
-package string;
+package stringAndStringBuilder.string;
 
 import java.util.Scanner;
 

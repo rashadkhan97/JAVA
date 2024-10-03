@@ -1,3 +1,5 @@
+package javaBasic;
+
 public class FirstPractice {
     public static void main(String[] args) {
         System.out.println("Hello world!");

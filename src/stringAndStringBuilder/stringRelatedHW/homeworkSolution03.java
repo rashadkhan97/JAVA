@@ -4,7 +4,7 @@ Example :
     email = “helloWorld123@gmail.com”; username = “helloWorld123”
   */
 
-package string;
+package stringAndStringBuilder.stringRelatedHW;
 import java.util.Scanner;
 
 public class homeworkSolution03 {

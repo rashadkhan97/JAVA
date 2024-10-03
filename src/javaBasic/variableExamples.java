@@ -1,3 +1,5 @@
+package javaBasic;
+
 public class variableExamples {
     public static void main(String[] args) {
         //variables

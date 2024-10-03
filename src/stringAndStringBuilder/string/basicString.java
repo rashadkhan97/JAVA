@@ -1,5 +1,5 @@
 //Take an array of names as input from the user and print them on the screen.
-package string;
+package stringAndStringBuilder.string;
 
 import java.util.Scanner;
 

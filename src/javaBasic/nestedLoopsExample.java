@@ -1,3 +1,5 @@
+package javaBasic;
+
 import java.util.Scanner;
 
 public class nestedLoopsExample {
